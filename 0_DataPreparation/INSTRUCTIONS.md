@@ -18,7 +18,7 @@ done
 done: convert to datetime, order weekdays..
 
 - **Handling Missing Values**
-
+done: missing data values prevented by using inner join
 
 - **Constructing New Variables** (Develop and integrate new variables that could significantly influence sales predictions. This may include date-related features (like day of the week, holidays), weather conditions, or special events.)
 
