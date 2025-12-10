@@ -1,0 +1,1 @@
+this is the folder for raw data where all the raw unprocessed data are kept 

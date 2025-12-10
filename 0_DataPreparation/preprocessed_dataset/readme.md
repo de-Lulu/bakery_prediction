@@ -1,1 +1,1 @@
-this files contains the final preprocessed data set before validation !
+the file was preprocessed in /workspaces/bakery_prediction/0_DataPreparation/Raw_data so the file name /workspaces/bakery_prediction/0_DataPreparation/Raw_data will not work if you load in your personal pc 

@@ -26,6 +26,4 @@ done: missing data values prevented by using inner join
 done: weekdays transformed to numerical values
 
 
-## Task
 
-Create a Jupyter Notebook or Python-script to conduct the data import and preparation process. Ensure each step is well-documented.
