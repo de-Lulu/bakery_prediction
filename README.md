@@ -14,15 +14,16 @@ Regression
 
 ### Results Summary
 
--   **Best Model:** [Name of the best-performing model]
+-   **Best Model: Neural Net Model (/workspaces/bakery_prediction/3_Model/neural_net.ipynb)**
+
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
-    -   **Bread** (1): [XX]%
-    -   **Rolls** (2): [XX]%
-    -   **Croissant** (3): [XX]%
-    -   **Confectionery** (4): [XX]%
-    -   **Cake** (5): [XX]%
-    -   **Seasonal Bread** (6): [XX]%
+    -   **Bread** (1): 0.2342 (23.4%)
+    -   **Rolls** (2): 0.1380 (13.8%)
+    -   **Croissant** (3): 0.2042 (20.4%)
+    -   **Confectionery** (4): 0.2394 (23.9%)
+    -   **Cake** (5): 0.1451 (14.5%)
+    -   **Seasonal Bread** (6): 0.5812 (58.1%)
 
 ## Documentation
 
