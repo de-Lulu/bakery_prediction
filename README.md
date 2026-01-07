@@ -14,7 +14,7 @@ Regression
 
 ### Results Summary
 
--   **Best Model: Neural Net Model **
+-   **Best Model:** Neural Net Model 
 
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
