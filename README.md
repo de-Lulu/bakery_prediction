@@ -14,7 +14,7 @@ Regression
 
 ### Results Summary
 
--   **Best Model: Neural Net Model (/workspaces/bakery_prediction/3_Model/neural_net.ipynb)**
+-   **Best Model: Neural Net Model **
 
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
