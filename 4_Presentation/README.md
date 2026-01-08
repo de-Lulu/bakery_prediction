@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](name_of_your_file_including_the_presentation_slides)**
+**[Slides](4_Presentation/Bakery Sales Prediction Project (Group 3).pdf)**
