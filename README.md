@@ -1,8 +1,12 @@
 # Sales Forecasting for a Bakery Branch
 
-## Repository Link
+## Project Repository Link
 
-(https://github.com/de-Lulu/bakery_prediction)
+Main Project Repository: https://github.com/de-Lulu/bakery_prediction
+
+## Backup Project Repository (Incase the main repository becomes unavailable)
+
+Backup Project Repository: https://github.com/akspat/bakery_prediction
 
 ## Description
 
