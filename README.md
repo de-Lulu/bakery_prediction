@@ -4,7 +4,7 @@
 
 Main Project Repository: https://github.com/de-Lulu/bakery_prediction
 
-## Backup Project Repository (Incase the main repository becomes unavailable)
+## Backup Project Repository (incase the main repository becomes unavailable)
 
 Backup Project Repository: https://github.com/akspat/bakery_prediction
 
